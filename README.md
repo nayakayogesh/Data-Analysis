@@ -8,13 +8,13 @@ An analysis of Walmart's sales data for the year 2019 to uncover trends, pattern
 
 Objectives:
 
-Explore and clean the dataset.
-Perform statistical and exploratory data analysis (EDA).
-Identify key sales trends and seasonality.
-Provide visualizations for better understanding of the data.
+> Explore and clean the dataset.
+> Perform statistical and exploratory data analysis (EDA).
+> Identify key sales trends and seasonality.
+> Provide visualizations for better understanding of the data.
 
 Tools & Techniques:
 
-Python (Pandas, NumPy, Matplotlib, Seaborn)
-Data Cleaning and Wrangling
-Statistical Analysis
+> Python (Pandas, NumPy, Matplotlib, Seaborn)
+> Data Cleaning and Wrangling
+> Statistical Analysis
