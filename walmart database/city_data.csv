@@ -1,0 +1,4 @@
+city;customer_count;unit_price_sum;quantity_sum;total;SUM(`total`)
+Yangon;339;18593.17;1849;100820.01;105861.0105
+Naypyitaw;327;18543.02;1828;105229.31;110490.7755
+Mandalay;329;18277.63;1795;99556.77;104534.6085
